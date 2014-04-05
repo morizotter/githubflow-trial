@@ -8,13 +8,13 @@ branch
 
 - master => master
 - gh-pages => behave as a deploy environment
-- other temporary branches => functional branch
+- other temporary branches => feature branch
 
 flow
 -----
 
 1. clone/fork&clone
-2. create functional branch like `git branch html-title`
+2. create feature branch like `git branch html-title`
 3. commit and push to the remote branch like `git push origin html-title`
 4. send pull request to any member.
 
