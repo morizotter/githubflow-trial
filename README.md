@@ -7,7 +7,7 @@ branch
 ------------
 
 - master => master
-- gh-pages => behave as deploy environment
+- gh-pages => behave as a deploy environment
 - other temporary branches => functional branch
 
 flow
